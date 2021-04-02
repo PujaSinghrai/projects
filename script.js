@@ -78,6 +78,7 @@ while ( w<=10) {
 
 // wap to factores of 24 using while loop
 
+
  var l = 0;
  
  while (l<=24){
