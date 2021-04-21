@@ -132,3 +132,9 @@ console.log(n)
 
 
 ///WAP TO Check a given number is Armstrong number or not
+
+let num = 153 
+let one = num%10 ; 
+
+
+
